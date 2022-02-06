@@ -1,6 +1,6 @@
 # Learning about Cloud Functions for Firebase and their features and their Use-cases
 
-## P.S. To run all of these functions, it is necessary to have a Firebase project and upgrade that project to the Blaze Plan. You also need to authenticate firebase on your local system. For accessing the Twilio API, you need to have a Twilio account, a Twilio account SID and a Twilio account Auth Token as well.
+### P.S. To run all of these functions, it is necessary to have a Firebase project and upgrade that project to the Blaze Plan. You also need to authenticate firebase on your local system. For accessing the Twilio API, you need to have a Twilio account, a Twilio account SID and a Twilio account Auth Token as well.
 
 ### Learnt about:
 
